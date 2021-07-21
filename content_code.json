@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Dashboard Activity",
+    "uri": "/",
+    "content": "intra://dashboard"
+  },
+  {
+    "name": "Planning Activity",
+    "uri": "planning/",
+    "content": "intra://planning"
+  },
+  {
+    "name": "User activity",
+    "uri": "user/",
+    "content": "intra://user"
+  },
+  {
+    "name": "Module Activity",
+    "uri": "module/2020/B-ANG-058/NAN-0-1/",
+    "content": "intra://module/2020/B-ANG-058/NAN-0-1"
+  },
+  {
+    "name": "Intra Activity Activity",
+    "uri": "module/2020/B-ASM-400/NAN-4-1/acti-438792/",
+    "content": "intra://module/2020/B-ASM-400/NAN-4-1/acti-438792/"
+  },
+  {
+    "name": "Project Activity",
+    "uri": "module/2020/B-ASM-400/NAN-4-1/acti-438792/project/",
+    "content": "intra://module/2020/B-ASM-400/NAN-4-1/acti-438792/project/"
+  }
+]
